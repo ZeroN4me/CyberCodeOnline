@@ -28,7 +28,7 @@
  	 	 	 	"eng": "Arasaka Unit Exchange"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Tutaj możesz kupić przedmioty globalnych wzmocnień",
+ 	 	 	 	"trans": "Tutaj możesz kupić globalne wzmocnienia",
  	 	 	 	"eng": "You can purchase global buff items here"
  	 	 	},
  	 	 	"canAccessError": {
@@ -86,12 +86,12 @@
  	 	},
  	 	"weaponSmith": {
  	 	 	"name": {
- 	 	 	 	"trans": "Kowal",
+ 	 	 	 	"trans": "Broń smith",
  	 	 	 	"eng": "Weapon Smith"
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Znajdziesz tutaj najlepsze uzbrojenie, zaufaj mi."
+ 	 	 	 	 	"Znajdziesz u mnie najlepszy sprzęt, zaufaj mi."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"You will find the best gear here, trust me."
@@ -112,7 +112,7 @@
  	 	 	 	"eng": "Your personal computer, although it's a little outdated, it can get the job done with enough patience"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Musisz mieć przynajmnajmniej 5 poziom by uzyskać dostęp do Terminalu",
+ 	 	 	 	"trans": "Musisz być przynajmniej 5, aby uzyskać dostęp do terminalu",
  	 	 	 	"eng": "You need to be at least level 5 to access terminal"
  	 	 	},
  	 	 	"defaultLines": {
@@ -126,7 +126,7 @@
  	 	},
  	 	"store": {
  	 	 	"name": {
- 	 	 	 	"trans": "Market leczniczy",
+ 	 	 	 	"trans": "Trinoky mart",
  	 	 	 	"eng": "Trinoky Mart"
  	 	 	},
  	 	 	"defaultLines": {
@@ -140,11 +140,11 @@
  	 	},
  	 	"bank": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bank Araski",
+ 	 	 	 	"trans": "Bank Arasaki",
  	 	 	 	"eng": "Bank of Arasaka"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Musisz mieć przynajmnajmniej 5 poziom by uzyskać dostęp do Banku",
+ 	 	 	 	"trans": "You need to be at least level 5 to access the bank",
  	 	 	 	"eng": "You need to be at least level 5 to access bank"
  	 	 	},
  	 	 	"defaultLines": {
@@ -166,7 +166,7 @@
  	 	 	 	"eng": "A workbench with the necessary tools allows you to tinker with your equipment."
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Musisz mieć przynajmnajmniej 10 poziom by uzyskać dostęp do Stacji kalibracyjnej",
+ 	 	 	 	"trans": "Musisz być przynajmniej 10, aby uzyskać dostęp do stacji kalibracyjnej",
  	 	 	 	"eng": "You need to be at least level 10 to access Calibration Station"
  	 	 	},
  	 	 	"defaultLines": {
@@ -180,7 +180,7 @@
  	 	},
  	 	"storageMerchant": {
  	 	 	"name": {
- 	 	 	 	"trans": "Punkt Wymianu u Lee",
+ 	 	 	 	"trans": "Lee's Trading Post",
  	 	 	 	"eng": "Lee's Trading Post"
  	 	 	},
  	 	 	"description": {
@@ -277,16 +277,16 @@
  	"location": {
  	 	"mainHub": {
  	 	 	"name": {
- 	 	 	 	"trans": "Centrum Shangri-La",
+ 	 	 	 	"trans": "Shangri-La City Center",
  	 	 	 	"eng": "Shangri-La City center"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[HUB centralny]\r\n Jedno z najbardziej ruchliwych miast na kontynencie. Możesz tutaj spotkać wszelkiego rodzaju ludzi z każdego zakątka świata.",
+ 	 	 	 	"trans": "[Central Hub]\r\n        One of the busiest cities on the continent. Here you can find all sorts of people from around the globe.",
  	 	 	 	"eng": "[Central Hub]\r\n        One of the busiest cities in the continent. Here you can find all sorts of people from around the globe."
  	 	 	},
  	 	 	"toStation": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Idź do Głównej Stacji Hyperloop",
+ 	 	 	 	 	"trans": "Go to Hyper Train Central Station",
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	},
  	 	 	 	"tut": {
@@ -314,7 +314,7 @@
  	 	 	 	 	"eng": "Go to Shangri-La Market Street"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "Możesz sprzedawać lub kupować przedmioty z innych graczy tutaj",
+ 	 	 	 	 	"trans": "Możesz tutaj sprzedawać lub kupować przedmioty od innych graczy",
  	 	 	 	 	"eng": "You can sell or buy items from other players here"
  	 	 	 	}
  	 	 	},
@@ -535,13 +535,13 @@
  	 	},
  	 	"upperArmor": {
  	 	 	"name": {
- 	 	 	 	"trans": "górna pancerz",
+ 	 	 	 	"trans": "pancerz górny",
  	 	 	 	"eng": "upper armor"
  	 	 	}
  	 	},
  	 	"lowerArmor": {
  	 	 	"name": {
- 	 	 	 	"trans": "dolna zbroja",
+ 	 	 	 	"trans": "zbroja dolna",
  	 	 	 	"eng": "lower armor"
  	 	 	}
  	 	},
@@ -559,11 +559,11 @@
  	 	},
  	 	"healing1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bóle",
+ 	 	 	 	"trans": "Bólodganiacz",
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Do you have a headache? Use Pain Away™ to relieve your pain!",
+ 	 	 	 	"trans": "Męczy cię ból głowy? Użyj Bólodganiacz™, by usunąć ból!",
  	 	 	 	"eng": "Do you have headache? Use Pain Away™ to relieve your pain!"
  	 	 	}
  	 	},
@@ -639,7 +639,7 @@
  	 	},
  	 	"healingArea1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bóle spray",
+ 	 	 	 	"trans": "Bólodganiacz w sprayu",
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
@@ -1699,7 +1699,7 @@
  	 	},
  	 	"map": {
  	 	 	"interactable": {
- 	 	 	 	"trans": "Interaktywne",
+ 	 	 	 	"trans": "Interakcji",
  	 	 	 	"eng": "Interactable"
  	 	 	},
  	 	 	"travel": {
@@ -4171,34 +4171,34 @@
  	"IAP": {
  	 	"currency": {
  	 	 	"mostEfficient": {
- 	 	 	 	"trans": "Najbardziej korzystny!",
+ 	 	 	 	"trans": "Najbardziej wydajny!",
  	 	 	 	"eng": "Most Efficient!"
  	 	 	},
  	 	 	"paypalExclusive": {
- 	 	 	 	"trans": "Wyłącznie PayPal!",
+ 	 	 	 	"trans": "PayPal wyłącznie!",
  	 	 	 	"eng": "PayPal Exclusive!"
  	 	 	}
  	 	},
  	 	"paypal": {
  	 	 	"paypalBonusTitle": {
- 	 	 	 	"trans": "Wszystkie zakupy przy użyciu PayPala zyskują 10% dodatkowych Modułów! \n Możesz użyć paypala tylko w wersji przeglądarkowej.",
+ 	 	 	 	"trans": "All PayPal purchases grants 10% additional Units!",
  	 	 	 	"eng": "All PayPal purchases grants 10% additional Units! You may use paypal only on website version, simply login with your browser."
  	 	 	},
  	 	 	"paypalBonus": {
- 	 	 	 	"trans": "Otrzymasz dodatkowe 10%  więcej Modułów płacąc przy pomocy PayPal!",
+ 	 	 	 	"trans": "Otrzymasz dodatkowe 10% więcej jednostek z zakupem PayPal",
  	 	 	 	"eng": "You will receive additional 10% more Units with paypal purchase"
  	 	 	}
  	 	},
  	 	"purchasing": {
- 	 	 	"trans": "Kupujesz",
+ 	 	 	"trans": "Nabywczy",
  	 	 	"eng": "Purchasing"
  	 	},
  	 	"total": {
- 	 	 	"trans": "Płacisz",
+ 	 	 	"trans": "całkowity",
  	 	 	"eng": "total"
  	 	},
  	 	"receive": {
- 	 	 	"trans": "Otrzymasz",
+ 	 	 	"trans": "Odbierać",
  	 	 	"eng": "Receive"
  	 	}
  	},
